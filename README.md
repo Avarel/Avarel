@@ -6,3 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Business-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:atavagon@gmail.com)](mailto:atavagon@gmail.com) 
 
 My name is **An Tran** and I go by the screen name **Avarel**. I'm currently a student at **Caltech** who likes to build stuff, especially backend systems.
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" height="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" height="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" height="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="20">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" height="20">
