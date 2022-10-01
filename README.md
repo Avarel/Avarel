@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/Avarel/Avarel/master/Card.svg)](https://avarel.github.io/)
+<!-- [![](h/ttps://raw.githubusercontent.com/Avarel/Avarel/master/Card.svg)](https://avarel.github.io/) -->
 
 <p align="center">
   
